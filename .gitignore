@@ -1,4 +1,10 @@
+#IntelliJ Idea #
+**/.idea/
+
+
 # Compiled class file
+
+
 *.class
 
 # Log file
