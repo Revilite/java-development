@@ -1,7 +1,4 @@
-package com.pluralsight;
-
 public class ShoppingList {
-
     public static void main(String[] args) {
         System.out.println("Milk");
         System.out.println("Cereal");
@@ -9,7 +6,7 @@ public class ShoppingList {
         System.out.println("Water");
         System.out.println("Bacon");
         System.out.println("Tea");
-        System.out.println("C4");
+        System.out.println("C4"); //Not explosives
         System.out.println("Cottage Cheese");
         System.out.println("Oats");
         System.out.println("LF Cheese");
