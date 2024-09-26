@@ -1,0 +1,36 @@
+Grab toothbrush
+Wet bristles of brush
+Grab toothpaste
+Uncap toothpaste / Turn cap
+Turn on faucet
+Wet bristle of brush
+Squeeze toothpaste a double pea sized amount of toothpaste onto the bristle of toothbrush
+if (breath stink){
+Double amount of toothpaste
+}
+Wet glob of toothpaste and bristles of toothbrush
+Turn off faucet
+if (have electric toothbrush){
+press power button
+}
+Clench teeth together (Big smile :))
+Proceed to brush teeth in circular motion for 2 minutes
+Open mouth
+Brush tongue
+take out toothbrush from mouth
+hawk tuah (Spit) into sink
+turn faucet on
+wash off toothbrush
+if(have electric toothbrush){
+press power button
+place into holder
+}
+cup water in hands
+swish water in mouth
+hawk tuah (spit) into sink
+if(have mouth wash){
+fill cap with mouth wash
+swish mouth wash in mouth
+hawk tuah (spit) into sink
+}
+finished
