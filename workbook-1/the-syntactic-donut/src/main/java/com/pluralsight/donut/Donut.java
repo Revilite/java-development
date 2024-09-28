@@ -31,6 +31,7 @@ public class Donut {
         for(int i = 0; i < 100; i += Math.incrementExact(i)){
             System.out.println(i);
         }
+        char test = 'c';
     }
 }
 
