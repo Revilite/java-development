@@ -1,6 +1,5 @@
 package com.pluralsight.financialCalculator;
 import java.util.Scanner;
-
 //init variables as doubles
 /*
         Margin of Overflow error
